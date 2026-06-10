@@ -10,7 +10,7 @@ from aiogram.filters import CommandStart, Command
 from aiogram.client.default import DefaultBotProperties
 
 # настройки
-BOT_TOKEN = "8612257576:AAE9ygX9LbwjWEKN0kL1vbeD93cNXSde91c" # сюда надо вписать токен из BotFather в скобки
+BOT_TOKEN = "токен" # сюда надо вписать токен из BotFather в скобки
 CONFIG_FILE = "base.json"
 COOLDOWN_SECONDS = 300 # 5 минут кулдауна
 
